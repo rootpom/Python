@@ -1,0 +1,4138 @@
+[
+  {
+    "number": 1092,
+    "reg_no": "4231114414",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AKTAR PURKAIT",
+            "Roll": "453211",
+            "Number": "1092",
+            "Registration Number": "4231114414",
+            "Marksheet Number": "B328332",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.170"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "074/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "094",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.047"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "065/O",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.607"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.208"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "065/O",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.704"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "068/O",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "098",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.463"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "O ",
+            "Aggregate": "472",
+            "Overall Percentile": "099.795"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AKTAR PURKAIT",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1121,
+    "reg_no": "4231114443",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SUSOBHAN GHOSH",
+            "Roll": "453211",
+            "Number": "1121",
+            "Registration Number": "4231114443",
+            "Marksheet Number": "B328361",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.375"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.013"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "056/A+",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "089.842"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "078/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "098",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.367"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "060/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "095.585"
+            },
+            {
+              "subject_code": "COMS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.065"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "O ",
+            "Aggregate": "452",
+            "Overall Percentile": "098.839"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SUSOBHAN GHOSH",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1119,
+    "reg_no": "4231114441",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "RUPAM GHOSH",
+            "Roll": "453211",
+            "Number": "1119",
+            "Registration Number": "4231114441",
+            "Marksheet Number": "B328359",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "065/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.475"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.384"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "054/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.212"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "073/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.555"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "055/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "091.163"
+            },
+            {
+              "subject_code": "COMS",
+              "subject_theory_marks_grade": "062/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.769"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "O ",
+            "Aggregate": "450",
+            "Overall Percentile": "098.680"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "RUPAM GHOSH",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1093,
+    "reg_no": "4231114415",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ALAUDDIN SARDAR",
+            "Roll": "453211",
+            "Number": "1093",
+            "Registration Number": "4231114415",
+            "Marksheet Number": "B328333",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.375"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.384"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "047/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "084.370"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "049/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "067",
+              "subject_grade": "B+  ",
+              "subject_percentile": "074.248"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.913"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "086.027"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "433",
+            "Overall Percentile": "096.982"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ALAUDDIN SARDAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1095,
+    "reg_no": "4231114417",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ARIJIT SARDAR",
+            "Roll": "453211",
+            "Number": "1095",
+            "Registration Number": "4231114417",
+            "Marksheet Number": "B328335",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.170"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "076/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "096",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.632"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "040/B",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.872"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "053/B+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "072",
+              "subject_grade": "A   ",
+              "subject_percentile": "080.638"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "048/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "081.608"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "061/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "091.000"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "425",
+            "Overall Percentile": "095.924"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ARIJIT SARDAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1111,
+    "reg_no": "4231114433",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SAHARIYAZ SARDAR",
+            "Roll": "453211",
+            "Number": "1111",
+            "Registration Number": "4231114433",
+            "Marksheet Number": "B328351",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "063/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.406"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "069/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.825"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "048/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.829"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "072",
+              "subject_grade": "A   ",
+              "subject_percentile": "080.638"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "061/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "095.585"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "061/A+",
+              "subject_practical_marks_grade": "027/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "087.783"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "424",
+            "Overall Percentile": "095.777"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SAHARIYAZ SARDAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1113,
+    "reg_no": "4231114435",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SAYAN PURKAIT",
+            "Roll": "453211",
+            "Number": "1113",
+            "Registration Number": "4231114435",
+            "Marksheet Number": "B328353",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "062/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "091.360"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.825"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "053/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "091.118"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "046/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "069.754"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "052/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "086.876"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "064/O",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "093.935"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "424",
+            "Overall Percentile": "095.777"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SAYAN PURKAIT",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1118,
+    "reg_no": "4231114440",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "TANMAY BHATTACHARJEE",
+            "Roll": "453211",
+            "Number": "1118",
+            "Registration Number": "4231114440",
+            "Marksheet Number": "B328358",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.375"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "073/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.655"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.829"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "041/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "063.309"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "051/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "086.876"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "056/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "082.132"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "421",
+            "Overall Percentile": "095.316"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "TANMAY BHATTACHARJEE",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1120,
+    "reg_no": "4231114442",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "RUPAM KAYAL",
+            "Roll": "453211",
+            "Number": "1120",
+            "Registration Number": "4231114442",
+            "Marksheet Number": "B328360",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "081.422"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.013"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "054/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.212"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "062",
+              "subject_grade": "B+  ",
+              "subject_percentile": "066.617"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "056/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.089"
+            },
+            {
+              "subject_code": "COMS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "026/A+",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "090.131"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "418",
+            "Overall Percentile": "094.832"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "RUPAM KAYAL",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1102,
+    "reg_no": "4231114424",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "KRISHNENDU MONDAL",
+            "Roll": "453211",
+            "Number": "1102",
+            "Registration Number": "4231114424",
+            "Marksheet Number": "B328342",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "073/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.363"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "071/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.013"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "045/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.723"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "052/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "078.315"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "049/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "078",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.998"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "055/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "077.783"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "417",
+            "Overall Percentile": "094.664"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "KRISHNENDU MONDAL",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1096,
+    "reg_no": "4231114418",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ARPAN HALDER",
+            "Roll": "453211",
+            "Number": "1096",
+            "Registration Number": "4231114418",
+            "Marksheet Number": "B328336",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "063/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.406"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "072/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.185"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "043/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.723"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "050/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "075.602"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "045/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "075",
+              "subject_grade": "A   ",
+              "subject_percentile": "078.585"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "059/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "087.783"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "411",
+            "Overall Percentile": "093.637"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ARPAN HALDER",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1112,
+    "reg_no": "4231114434",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SAJID HOSSAIN MOLLA",
+            "Roll": "453211",
+            "Number": "1112",
+            "Registration Number": "4231114434",
+            "Marksheet Number": "B328352",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "061/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "090.192"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "053/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.163"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "035/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "053",
+              "subject_grade": "B   ",
+              "subject_percentile": "049.824"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.024"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "057/A+",
+              "subject_practical_marks_grade": "027/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "080.014"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "410",
+            "Overall Percentile": "093.450"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SAJID HOSSAIN MOLLA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1151,
+    "reg_no": "4231114487",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SUPRIYA HALDER",
+            "Roll": "453211",
+            "Number": "1151",
+            "Registration Number": "4231114487",
+            "Marksheet Number": "B328391",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "050/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.282"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "068/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "055/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "075",
+              "subject_grade": "A   ",
+              "subject_percentile": "089.474"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.187"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "096.776"
+            },
+            {
+              "subject_code": "ECON",
+              "subject_theory_marks_grade": "061/A",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.659"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "409",
+            "Overall Percentile": "093.265"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SUPRIYA HALDER",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1094,
+    "reg_no": "4231114416",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AMARTYA GHOSH",
+            "Roll": "453211",
+            "Number": "1094",
+            "Registration Number": "4231114416",
+            "Marksheet Number": "B328334",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.375"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.384"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "038/B",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "067.397"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "052/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "078.315"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "042/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.783"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "084.105"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "408",
+            "Overall Percentile": "093.075"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AMARTYA GHOSH",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1110,
+    "reg_no": "4231114432",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ROHID MOLLA",
+            "Roll": "453211",
+            "Number": "1110",
+            "Registration Number": "4231114432",
+            "Marksheet Number": "B328350",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "063/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.406"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "041/B",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "073.887"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "029/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "047",
+              "subject_grade": "C   ",
+              "subject_percentile": "037.115"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "055/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "090.164"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "054/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "075.542"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "408",
+            "Overall Percentile": "093.075"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ROHID MOLLA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1106,
+    "reg_no": "4231114428",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "RAKESH HALDER",
+            "Roll": "453211",
+            "Number": "1106",
+            "Registration Number": "4231114428",
+            "Marksheet Number": "B328346",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "062/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "091.360"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.655"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "026/A+",
+              "subject_marks": "072",
+              "subject_grade": "A   ",
+              "subject_percentile": "075.836"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "036/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "054",
+              "subject_grade": "B   ",
+              "subject_percentile": "051.949"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.024"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "057/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "084.105"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "407",
+            "Overall Percentile": "092.887"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "RAKESH HALDER",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1109,
+    "reg_no": "4231114431",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "RIBHU TUNGA",
+            "Roll": "453211",
+            "Number": "1109",
+            "Registration Number": "4231114431",
+            "Marksheet Number": "B328349",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.375"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "074/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.185"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "040/B",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.872"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "051",
+              "subject_grade": "B   ",
+              "subject_percentile": "045.679"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "050/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "078",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.998"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "054/A",
+              "subject_practical_marks_grade": "027/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "073.221"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "407",
+            "Overall Percentile": "092.887"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "RIBHU TUNGA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1108,
+    "reg_no": "4231114430",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "REHAN MOLLA",
+            "Roll": "453211",
+            "Number": "1108",
+            "Registration Number": "4231114430",
+            "Marksheet Number": "B328348",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "063/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.406"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "074/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.185"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "042/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.872"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "024/P",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "043",
+              "subject_grade": "C   ",
+              "subject_percentile": "011.340"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "050/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "078",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.998"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "052/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "070.855"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "403",
+            "Overall Percentile": "092.085"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "REHAN MOLLA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1104,
+    "reg_no": "4231114426",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "MD SAHIL KHAN",
+            "Roll": "453211",
+            "Number": "1104",
+            "Registration Number": "4231114426",
+            "Marksheet Number": "B328344",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "065/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.475"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.655"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "047/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.829"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "027/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "045",
+              "subject_grade": "C   ",
+              "subject_percentile": "032.748"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "040/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "065.841"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "051/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "070.855"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "402",
+            "Overall Percentile": "091.884"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "MD SAHIL KHAN",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1107,
+    "reg_no": "4231114429",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "RAMIJ RAJA MOLLA",
+            "Roll": "453211",
+            "Number": "1107",
+            "Registration Number": "4231114429",
+            "Marksheet Number": "B328347",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "063/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "083",
+              "subject_grade": "A+  ",
+              "subject_percentile": "092.406"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "038/B",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "067",
+              "subject_grade": "B+  ",
+              "subject_percentile": "065.093"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "035/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "053",
+              "subject_grade": "B   ",
+              "subject_percentile": "049.824"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "050/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "078",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.998"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "056/A+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "080.014"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "400",
+            "Overall Percentile": "091.469"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "RAMIJ RAJA MOLLA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1123,
+    "reg_no": "4231114445",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ALAMIN GHORAMI",
+            "Roll": "453211",
+            "Number": "1123",
+            "Registration Number": "4231114445",
+            "Marksheet Number": "B328363",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "081.422"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "072/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.185"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "045/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "076.729"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.187"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "073/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "094.002"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "044/B+",
+              "subject_practical_marks_grade": "026/A+",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "074.353"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A+",
+            "Aggregate": "400",
+            "Overall Percentile": "091.469"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ALAMIN GHORAMI",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1103,
+    "reg_no": "4231114425",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "MD MANJUR ALAM LASKAR",
+            "Roll": "453211",
+            "Number": "1103",
+            "Registration Number": "4231114425",
+            "Marksheet Number": "B328343",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "056/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "084.144"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "073/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "091",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.619"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "047/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.829"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "026/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "044",
+              "subject_grade": "C   ",
+              "subject_percentile": "030.206"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.024"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "052/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "073.221"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "398",
+            "Overall Percentile": "091.053"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "MD MANJUR ALAM LASKAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1122,
+    "reg_no": "4231114444",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AKASH PATRA",
+            "Roll": "453211",
+            "Number": "1122",
+            "Registration Number": "4231114444",
+            "Marksheet Number": "B328362",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "081.422"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "071/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.013"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "057/A",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "090.405"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.187"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "068/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "084.652"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "035/B",
+              "subject_practical_marks_grade": "026/A+",
+              "subject_marks": "061",
+              "subject_grade": "B+  ",
+              "subject_percentile": "059.041"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "398",
+            "Overall Percentile": "091.053"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AKASH PATRA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1099,
+    "reg_no": "4231114421",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "G M RAMIZ RAJA",
+            "Roll": "453211",
+            "Number": "1099",
+            "Registration Number": "4231114421",
+            "Marksheet Number": "B328339",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "064/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.403"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "095",
+              "subject_grade": "O   ",
+              "subject_percentile": "099.384"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "027/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "047.168"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "042/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "063.309"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "044/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "075.369"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "057/A+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "082.132"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "397",
+            "Overall Percentile": "090.827"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "G M RAMIZ RAJA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1098,
+    "reg_no": "4231114420",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "BITANU ROY",
+            "Roll": "453211",
+            "Number": "1098",
+            "Registration Number": "4231114420",
+            "Marksheet Number": "B328338",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "064/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.403"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "072/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.013"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "039/B",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "067.397"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "046/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "071.252"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "034/C",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "054.596"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "087.783"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "395",
+            "Overall Percentile": "090.378"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "BITANU ROY",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1115,
+    "reg_no": "4231114437",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SOUMO NASKAR",
+            "Roll": "453211",
+            "Number": "1115",
+            "Registration Number": "4231114437",
+            "Marksheet Number": "B328355",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "060/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "089.028"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.825"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "040/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "067.397"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "053",
+              "subject_grade": "B   ",
+              "subject_percentile": "049.824"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "051/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "085.649"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "050/A",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "078",
+              "subject_grade": "A   ",
+              "subject_percentile": "065.767"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "393",
+            "Overall Percentile": "089.942"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SOUMO NASKAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1105,
+    "reg_no": "4231114427",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "PARVEZ LASKAR",
+            "Roll": "453211",
+            "Number": "1105",
+            "Registration Number": "4231114427",
+            "Marksheet Number": "B328345",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "057/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "085.206"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "051/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "088.602"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "024/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "042",
+              "subject_grade": "C   ",
+              "subject_percentile": "009.410"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "037/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "059.201"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "053/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "075.542"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "392",
+            "Overall Percentile": "089.702"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "PARVEZ LASKAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1117,
+    "reg_no": "4231114439",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SWAGATA MONDAL",
+            "Roll": "453211",
+            "Number": "1117",
+            "Registration Number": "4231114439",
+            "Marksheet Number": "B328357",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "055/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "075",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.895"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.825"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "046/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.829"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "034/C",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "053",
+              "subject_grade": "B   ",
+              "subject_percentile": "049.824"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "047/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "080.200"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "044/B+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "053.540"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "387",
+            "Overall Percentile": "088.519"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SWAGATA MONDAL",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1114,
+    "reg_no": "4231114436",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SHUVANKAR MONDAL",
+            "Roll": "453211",
+            "Number": "1114",
+            "Registration Number": "4231114436",
+            "Marksheet Number": "B328354",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "050/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.282"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "074/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "092",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.185"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "043/B+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.723"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "046/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "069.754"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "043/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.783"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "052/A",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "081",
+              "subject_grade": "A+  ",
+              "subject_percentile": "073.221"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "387",
+            "Overall Percentile": "088.519"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SHUVANKAR MONDAL",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1125,
+    "reg_no": "4231114447",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ARNAB BOSE",
+            "Roll": "453211",
+            "Number": "1125",
+            "Registration Number": "4231114447",
+            "Marksheet Number": "B328365",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "066.176"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.080"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "045/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "076.729"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "037/C",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "057",
+              "subject_grade": "B   ",
+              "subject_percentile": "045.624"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "071/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "091",
+              "subject_grade": "O   ",
+              "subject_percentile": "090.875"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "057/A+",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "082",
+              "subject_grade": "A+  ",
+              "subject_percentile": "089.769"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "387",
+            "Overall Percentile": "088.519"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ARNAB BOSE",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1100,
+    "reg_no": "4231114422",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "KABIR KHAN",
+            "Roll": "453211",
+            "Number": "1100",
+            "Registration Number": "4231114422",
+            "Marksheet Number": "B328340",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.601"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "075/O",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "093",
+              "subject_grade": "O   ",
+              "subject_percentile": "098.655"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "039/B",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "057.761"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "049/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "067",
+              "subject_grade": "B+  ",
+              "subject_percentile": "074.248"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "042/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "069.857"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "056/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "082.132"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "386",
+            "Overall Percentile": "088.275"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "KABIR KHAN",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1090,
+    "reg_no": "4231114412",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AISHIK MONDAL",
+            "Roll": "453211",
+            "Number": "1090",
+            "Registration Number": "4231114412",
+            "Marksheet Number": "B328330",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "057/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "085.206"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "094.825"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "035/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "055.174"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "050/B+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "075.602"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "036/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "056.944"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "057/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "086",
+              "subject_grade": "A+  ",
+              "subject_percentile": "084.105"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "382",
+            "Overall Percentile": "087.300"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AISHIK MONDAL",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1097,
+    "reg_no": "4231114419",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AVISHEK SARDAR",
+            "Roll": "453211",
+            "Number": "1097",
+            "Registration Number": "4231114419",
+            "Marksheet Number": "B328337",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "056/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "084.144"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "093.253"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "039/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "067",
+              "subject_grade": "B+  ",
+              "subject_percentile": "065.093"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "042/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "063.309"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "062",
+              "subject_grade": "B+  ",
+              "subject_percentile": "052.124"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "060/A+",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "091.000"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "380",
+            "Overall Percentile": "086.781"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AVISHEK SARDAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1091,
+    "reg_no": "4231114413",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AKASH SANTRA",
+            "Roll": "453211",
+            "Number": "1091",
+            "Registration Number": "4231114413",
+            "Marksheet Number": "B328331",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "050/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "076.282"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "068/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "028/C",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "056",
+              "subject_grade": "B   ",
+              "subject_percentile": "036.023"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "047/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "071.252"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "041/B",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "069.857"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "054/A",
+              "subject_practical_marks_grade": "030/O",
+              "subject_marks": "084",
+              "subject_grade": "A+  ",
+              "subject_percentile": "080.014"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "377",
+            "Overall Percentile": "085.975"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AKASH SANTRA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1089,
+    "reg_no": "4231114411",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "AGNISWAR DAS",
+            "Roll": "453211",
+            "Number": "1089",
+            "Registration Number": "4231114411",
+            "Marksheet Number": "B328329",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "074",
+              "subject_grade": "A   ",
+              "subject_percentile": "081.422"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "069/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "061",
+              "subject_grade": "B+  ",
+              "subject_percentile": "049.830"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "061",
+              "subject_grade": "B+  ",
+              "subject_percentile": "064.965"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "038/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "066",
+              "subject_grade": "B+  ",
+              "subject_percentile": "061.587"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "058/A+",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "087",
+              "subject_grade": "A+  ",
+              "subject_percentile": "086.027"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "376",
+            "Overall Percentile": "085.698"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "AGNISWAR DAS",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1116,
+    "reg_no": "4231114438",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SUBHODIP KAPAT",
+            "Roll": "453211",
+            "Number": "1116",
+            "Registration Number": "4231114438",
+            "Marksheet Number": "B328356",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "055/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "075",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.895"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "072/O",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "091",
+              "subject_grade": "O   ",
+              "subject_percentile": "097.619"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "038/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "066",
+              "subject_grade": "B+  ",
+              "subject_percentile": "062.752"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "024/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "042",
+              "subject_grade": "C   ",
+              "subject_percentile": "009.410"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "038/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "066",
+              "subject_grade": "B+  ",
+              "subject_percentile": "061.587"
+            },
+            {
+              "subject_code": "COMS",
+              "subject_theory_marks_grade": "050/A",
+              "subject_practical_marks_grade": "026/A+",
+              "subject_marks": "076",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.086"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "374",
+            "Overall Percentile": "085.159"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SUBHODIP KAPAT",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1101,
+    "reg_no": "4231114423",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "KRISH NANDI",
+            "Roll": "453211",
+            "Number": "1101",
+            "Registration Number": "4231114423",
+            "Marksheet Number": "B328341",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "057/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "085.206"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "CHEM",
+              "subject_theory_marks_grade": "039/B",
+              "subject_practical_marks_grade": "029/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "067.397"
+            },
+            {
+              "subject_code": "MATH",
+              "subject_theory_marks_grade": "027/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "045",
+              "subject_grade": "C   ",
+              "subject_percentile": "032.748"
+            },
+            {
+              "subject_code": "PHYS",
+              "subject_theory_marks_grade": "043/B+",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "071.783"
+            },
+            {
+              "subject_code": "BIOS",
+              "subject_theory_marks_grade": "037/B",
+              "subject_practical_marks_grade": "028/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "033.894"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "369",
+            "Overall Percentile": "083.812"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "KRISH NANDI",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1126,
+    "reg_no": "4231114448",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ASIF SEKH",
+            "Roll": "453211",
+            "Number": "1126",
+            "Registration Number": "4231114448",
+            "Marksheet Number": "B328366",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "071",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.601"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "060/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "088.706"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "032/C",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "051",
+              "subject_grade": "B   ",
+              "subject_percentile": "050.205"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "044/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "059.400"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "071/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "089.405"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "039/B",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "064.582"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "368",
+            "Overall Percentile": "083.525"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ASIF SEKH",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1127,
+    "reg_no": "4231114450",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "HIMESH ROY",
+            "Roll": "453211",
+            "Number": "1127",
+            "Registration Number": "4231114450",
+            "Marksheet Number": "B328367",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "044/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "064",
+              "subject_grade": "B+  ",
+              "subject_percentile": "067.600"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "060/A",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "088.706"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "036/C",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "056",
+              "subject_grade": "B   ",
+              "subject_percentile": "060.870"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "059.400"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "066/A+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "081.248"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "045/B+",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "074.353"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "362",
+            "Overall Percentile": "081.806"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "HIMESH ROY",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1149,
+    "reg_no": "4231114483",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SHANKHA NASKAR",
+            "Roll": "453211",
+            "Number": "1149",
+            "Registration Number": "4231114483",
+            "Marksheet Number": "B328389",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "042/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "062",
+              "subject_grade": "B+  ",
+              "subject_percentile": "064.716"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "068/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "088",
+              "subject_grade": "A+  ",
+              "subject_percentile": "095.486"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "045/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "076.729"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "041/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "061",
+              "subject_grade": "B+  ",
+              "subject_percentile": "054.923"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "067/A+",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "081.248"
+            },
+            {
+              "subject_code": "ECON",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "061",
+              "subject_grade": "B+  ",
+              "subject_percentile": "079.614"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "361",
+            "Overall Percentile": "081.496"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SHANKHA NASKAR",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1124,
+    "reg_no": "4231114446",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "ARINDAM PANJA",
+            "Roll": "453211",
+            "Number": "1124",
+            "Registration Number": "4231114446",
+            "Marksheet Number": "B328364",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "036/C",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "056",
+              "subject_grade": "B   ",
+              "subject_percentile": "055.066"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "061/A",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "080",
+              "subject_grade": "A+  ",
+              "subject_percentile": "088.706"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "035/C",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "054",
+              "subject_grade": "B   ",
+              "subject_percentile": "056.756"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "041/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "052.702"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "070/A+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "090",
+              "subject_grade": "O   ",
+              "subject_percentile": "089.405"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "045/B+",
+              "subject_practical_marks_grade": "027/O",
+              "subject_marks": "072",
+              "subject_grade": "A   ",
+              "subject_percentile": "077.266"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "358",
+            "Overall Percentile": "080.622"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "ARINDAM PANJA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1193,
+    "reg_no": "4231114532",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "HATENUR ISLAM MOLLA",
+            "Roll": "453211",
+            "Number": "1193",
+            "Registration Number": "4231114532",
+            "Marksheet Number": "B328433",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "043/B",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "066.176"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "054/B+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "073",
+              "subject_grade": "A   ",
+              "subject_percentile": "082.077"
+            },
+            {
+              "subject_code": "EDCN",
+              "subject_theory_marks_grade": "046/B",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "065",
+              "subject_grade": "B+  ",
+              "subject_percentile": "085.419"
+            },
+            {
+              "subject_code": "HIST",
+              "subject_theory_marks_grade": "051/B+",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "070",
+              "subject_grade": "A   ",
+              "subject_percentile": "090.435"
+            },
+            {
+              "subject_code": "POLS",
+              "subject_theory_marks_grade": "042/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "060",
+              "subject_grade": "B+  ",
+              "subject_percentile": "085.089"
+            },
+            {
+              "subject_code": "SEUV",
+              "subject_theory_marks_grade": "023/A",
+              "subject_practical_marks_grade": "062/A+",
+              "subject_marks": "085",
+              "subject_grade": "A+  ",
+              "subject_percentile": "067.828"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "A ",
+            "Aggregate": "356",
+            "Overall Percentile": "080.002"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "HATENUR ISLAM MOLLA",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1128,
+    "reg_no": "4231114451",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "IMRAN HALDER",
+            "Roll": "453211",
+            "Number": "1128",
+            "Registration Number": "4231114451",
+            "Marksheet Number": "B328368",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "030/P",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "050",
+              "subject_grade": "B   ",
+              "subject_percentile": "044.210"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "035/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "053",
+              "subject_grade": "B   ",
+              "subject_percentile": "059.898"
+            },
+            {
+              "subject_code": "ACCT",
+              "subject_theory_marks_grade": "028/P",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "047",
+              "subject_grade": "C   ",
+              "subject_percentile": "040.427"
+            },
+            {
+              "subject_code": "BSTD",
+              "subject_theory_marks_grade": "048/B+",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "068",
+              "subject_grade": "B+  ",
+              "subject_percentile": "069.953"
+            },
+            {
+              "subject_code": "CSTX",
+              "subject_theory_marks_grade": "058/A",
+              "subject_practical_marks_grade": "019/O",
+              "subject_marks": "077",
+              "subject_grade": "A   ",
+              "subject_percentile": "067.795"
+            },
+            {
+              "subject_code": "COMA",
+              "subject_theory_marks_grade": "033/C",
+              "subject_practical_marks_grade": "025/A+",
+              "subject_marks": "058",
+              "subject_grade": "B   ",
+              "subject_percentile": "053.262"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "B+",
+            "Aggregate": "306",
+            "Overall Percentile": "063.082"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "IMRAN HALDER",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  },
+  {
+    "number": 1192,
+    "reg_no": "4231114531",
+    "response": {
+      "status": "success",
+      "data": {
+        "board_result": {
+          "candidate_info": {
+            "Candidate Name": "SUDIP HALDER",
+            "Roll": "453211",
+            "Number": "1192",
+            "Registration Number": "4231114531",
+            "Marksheet Number": "B328432",
+            "Institute Code": "102044"
+          },
+          "subjects": [
+            {
+              "subject_code": "BNGA",
+              "subject_theory_marks_grade": "037/C",
+              "subject_practical_marks_grade": "020/O",
+              "subject_marks": "057",
+              "subject_grade": "B   ",
+              "subject_percentile": "056.598"
+            },
+            {
+              "subject_code": "ENGB",
+              "subject_theory_marks_grade": "038/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "056",
+              "subject_grade": "B   ",
+              "subject_percentile": "063.949"
+            },
+            {
+              "subject_code": "EDCN",
+              "subject_theory_marks_grade": "045/B",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "063",
+              "subject_grade": "B+  ",
+              "subject_percentile": "083.240"
+            },
+            {
+              "subject_code": "HIST",
+              "subject_theory_marks_grade": "027/P",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "045",
+              "subject_grade": "C   ",
+              "subject_percentile": "048.519"
+            },
+            {
+              "subject_code": "POLS",
+              "subject_theory_marks_grade": "032/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "050",
+              "subject_grade": "B   ",
+              "subject_percentile": "067.097"
+            },
+            {
+              "subject_code": "PHIL",
+              "subject_theory_marks_grade": "038/C",
+              "subject_practical_marks_grade": "018/O",
+              "subject_marks": "056",
+              "subject_grade": "B   ",
+              "subject_percentile": "069.021"
+            }
+          ],
+          "result": {
+            "Result Status": "PASS",
+            "Overall Grade": "B ",
+            "Aggregate": "282",
+            "Overall Percentile": "053.678"
+          },
+          "result_promotional_campaigns": [
+            {
+              "campaign_id": 1,
+              "is_campaign_active": true,
+              "data": {
+                "percentage": 0,
+                "name": "SUDIP HALDER",
+                "scholarship": 0,
+                "class": "12th",
+                "ui_type": 1,
+                "pop_up_timer": 3,
+                "thumbnail": "url",
+                "pop_up_url": "url1",
+                "mark_sheet_url": "url2",
+                "is_valid_data": true
+              }
+            }
+          ]
+        },
+        "unique_id_info": null
+      }
+    }
+  }
+]
