@@ -1,13 +1,14 @@
 import requests
 import concurrent.futures
 import threading
+import json
 
 base_number = 1089
 base_reg = 4231114411
 results = []
 
 lock = threading.Lock()
-MAX_RETRIES = 30  # prevent infinite loop per number
+MAX_RETRIES = 35  # increased
 
 def fetch_until_success(number):
     delta = number - base_number
@@ -30,14 +31,11 @@ def fetch_until_success(number):
             data = response.json()
 
             if data.get("status") == "success":
-                info = data['data']['board_result']['candidate_info']
-                result = data['data']['board_result']['result']
                 with lock:
                     results.append({
                         "number": number,
                         "reg_no": str(reg_no),
-                        "name": info["Candidate Name"],
-                        "aggregate": int(result["Aggregate"])
+                        "full_response": data
                     })
                 return
             else:
@@ -53,9 +51,17 @@ numbers_to_check = list(range(1088, 1300))
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
     executor.map(fetch_until_success, numbers_to_check)
 
-# Sort by aggregate descending
-sorted_results = sorted(results, key=lambda x: x["aggregate"], reverse=True)
+# Sort by aggregate descending if possible
+def extract_aggregate(entry):
+    try:
+        return int(entry["full_response"]["data"]["board_result"]["result"]["Aggregate"])
+    except:
+        return 0
 
-# Display
+sorted_results = sorted(results, key=extract_aggregate, reverse=True)
+
+# Display full API response for each success
 for r in sorted_results:
-    print(f"{r['name']:25} | Number: {r['number']} | Reg: {r['reg_no']} | Aggregate: {r['aggregate']}")
+    print(f"\n[+] Number: {r['number']} | Reg: {r['reg_no']}")
+    print(json.dumps(r["full_response"], indent=2))
+    print("-" * 80)
